@@ -1,4 +1,4 @@
-# Fy-Forex-Trading-Analysis
+# My-Forex-Trading-Analysis
 
 ![](FOREX.jpg)
 
